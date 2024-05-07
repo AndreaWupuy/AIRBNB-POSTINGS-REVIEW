@@ -1,0 +1,7 @@
+The analysis of a comprehensive Airbnb database, emphasizes textual descriptions and 
+sentiment analysis, unveils key insights for optimizing listings and potentially expanding 
+to new markets. While apartments utilize words that resonate with city tourists looking 
+for convenience and nightlife, condominiums emphasize beach vacations through 
+evocative and positive language. Houses, on the other hand, target nature lovers yearning 
+for privacy with relevant keywords. Through a data-driven understanding of guests' 
+preferences by property type, listings descriptions can be tailored to increase bookings.
